@@ -1,0 +1,30 @@
+.card_align{
+    margin:0 4% 50px 2%;
+}
+
+@media only screen and (max-width: 600px) {
+    .card_align {
+        margin:0 0% 50px 10%;
+    }
+  }
+
+.container{
+    margin: 0px 20% 0px 10%;
+}
+
+.card-img-top_align{
+    height: 200px;
+}
+
+.card {display:inline-block;}
+
+.project_title{
+    color: #b6350d;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    justify-content: center;
+    margin: 0 40% 0 30%;
+  }
+
+ 
